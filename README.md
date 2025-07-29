@@ -31,7 +31,8 @@ This project is a MIPS Assembly program that calculates the total ticket price f
 
 ## 📊 Flowchart
 
-[View Flowchart (PDF)](Start (2).pdf)
+[Start (2).pdf](Start%20%282%29.pdf)
+
 
 ## 🧪 Example
 Age: 16
