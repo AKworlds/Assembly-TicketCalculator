@@ -39,4 +39,11 @@ Age: 16
 Tickets: 2
 Total: $28.00
 
+## 🚀 How to Run
+
+1. Open `TicketCalculator.asm` in **MARS Simulator**.
+2. Assemble and run the program.
+3. Enter age and ticket count when prompted.
+4. View the total price output in the console.
+
 
